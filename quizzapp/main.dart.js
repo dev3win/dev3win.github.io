@@ -26246,11 +26246,11 @@ au_:function au_(){},
 td:function td(a){this.a=a},
 abx:function abx(){},
 aEw(){var s=A.a([],t.mW),r=t.Le
-s.push(new A.mO("Co to jest Cubit?",A.a([new A.cH("Architektura aplikacji",!1),new A.cH("Zbi\xf3r widget\xf3w Fluttera",!1),new A.cH("Biblioteka do zarz\u0105dzania stanem",!0),new A.cH("J\u0119zyk programowania",!1),new A.cH("Framework do budowy UI",!1)],r)))
-s.push(new A.mO("Jakiej biblioteki jest cz\u0119\u015bci\u0105 Cubit?",A.a([new A.cH("Redux",!1),new A.cH("Provider",!1),new A.cH("Riverpod",!1),new A.cH("Bloc",!0),new A.cH("GetX",!1)],r)))
-s.push(new A.mO("Jaki jest domy\u015blny stan Cubit?",A.a([new A.cH("null",!1),new A.cH("0",!1),new A.cH("undefined",!1),new A.cH("Pocz\u0105tkowy stan zdefiniowany przez dewelopera",!0)],r)))
-s.push(new A.mO("Czy Cubit posiada strumie\u0144 do kt\xf3rego mo\u017cna nas\u0142uchiwa\u0107 zmiany stanu?",A.a([new A.cH("Tak",!0),new A.cH("Nie",!1)],r)))
-s.push(new A.mO("Jakie s\u0105 dwa podstawowe elementy zarz\u0105dzania stanem w bibliotece Bloc?",A.a([new A.cH("State i Event",!1),new A.cH("Bloc i Provider",!1),new A.cH("Cubit i Bloc",!0),new A.cH("Cubit i Event",!1),new A.cH("State i Cubit",!1),new A.cH("Provider i Bloc",!1)],r)))
+s.push(new A.mO("What is Cubit?",A.a([new A.cH("Application architecture",!1),new A.cH("Collection of Flutter widgets",!1),new A.cH("State management library",!0),new A.cH("Programming language",!1),new A.cH("UI building framework",!1)],r)))
+s.push(new A.mO("Which library is Cubit part of?",A.a([new A.cH("Redux",!1),new A.cH("Provider",!1),new A.cH("Riverpod",!1),new A.cH("Bloc",!0),new A.cH("GetX",!1)],r)))
+s.push(new A.mO("What is the default state of Cubit?",A.a([new A.cH("null",!1),new A.cH("0",!1),new A.cH("undefined",!1),new A.cH("Initial state defined by the developer",!0)],r)))
+s.push(new A.mO("Does Cubit have a stream to listen for state changes?",A.a([new A.cH("Yes",!0),new A.cH("No",!1)],r)))
+s.push(new A.mO("What are the two basic elements of state management in the Bloc library?",A.a([new A.cH("State and Event",!1),new A.cH("Bloc and Provider",!1),new A.cH("Cubit and Bloc",!0),new A.cH("Cubit and Event",!1),new A.cH("State and Cubit",!1),new A.cH("Provider and Bloc",!1)],r)))
 return s},
 mO:function mO(a,b){this.a=a
 this.b=b},
